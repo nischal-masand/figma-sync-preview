@@ -1,5 +1,7 @@
 # Multi View
 
+**[Install from the Figma Community →](https://www.figma.com/community/plugin/1649652335482980228)**
+
 A Figma plugin that previews up to four frames side by side, wrapped in device
 frames, with synchronized scrolling. Figma's native preview shows one screen at
 a time — this shows four, so you can compare light against dark, mobile against
@@ -16,7 +18,13 @@ tablet, or consecutive screens in a flow without switching back and forth.
 - **Live selection** — the plugin tracks what you select on the canvas and offers
   it as the next panel
 
-## Install (development)
+## Install
+
+Open the [Figma Community page](https://www.figma.com/community/plugin/1649652335482980228)
+and click **Open in Figma** — the plugin then shows up under
+**Plugins** in any file, no build step needed.
+
+## Develop locally
 
 ```bash
 npm install
