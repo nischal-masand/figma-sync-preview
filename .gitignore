@@ -1,0 +1,11 @@
+# dependencies
+node_modules/
+
+# local working files
+.tmp/
+.claude/settings.local.json
+
+# OS / sync artifacts
+desktop.ini
+.DS_Store
+Thumbs.db
